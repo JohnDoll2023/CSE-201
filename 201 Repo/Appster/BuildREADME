@@ -1,0 +1,4 @@
+To build the build.xml ANT file:
+
+1. Navigate to the directory containing the file using command prompt
+2. Type "ant war" as the command and then press enter

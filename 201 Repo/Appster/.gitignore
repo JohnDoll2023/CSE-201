@@ -1,0 +1,16 @@
+
+.classpath
+.project
+.DS_Store
+/Administrator.class
+/Application$sortByDownloads.class
+/Application$sortByName.class
+/Application$sortByRating.class
+/Application.class
+/Login.class
+/Moderator.class
+/Person.class
+/RunApp.class
+/User.class
+/UserTest.class
+/ApplicationTest.class
